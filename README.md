@@ -3,7 +3,6 @@ Domain: Retail Analytics / FMCG / E-Commerce
 Tools: Power BI (DAX, Data Modeling, Power Query), Excel (Data Cleaning)
 
 Project Overview
-
 Developed an interactive retail performance dashboard in Power BI to analyze Blinkit’s outlet sales, product performance, item visibility, and customer ratings. The dashboard enables management to evaluate revenue drivers, outlet tier performance, and product category contribution using dynamic filters and KPI monitoring.
 
 Key Contributions & Insights
